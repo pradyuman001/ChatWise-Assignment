@@ -1,6 +1,6 @@
 # ChatWise-Assignment
 
-ChatWise Assignment is a Assignmet Android application mad using Kotlin and Material Design.
+ChatWise Assignment is a Assignmet Android application made using Kotlin and Material Design.
 
 
 
